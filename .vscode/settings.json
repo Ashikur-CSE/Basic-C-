@@ -3,6 +3,11 @@
     "iostream": "cpp",
     "istream": "cpp",
     "ostream": "cpp",
-    "algorithm": "cpp"
+    "algorithm": "cpp",
+    "bitset": "cpp",
+    "iterator": "cpp",
+    "xhash": "cpp",
+    "xtree": "cpp",
+    "xutility": "cpp"
   }
 }
